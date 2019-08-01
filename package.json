@@ -1,0 +1,14 @@
+{
+  "name": "@ctsy/server-decorator",
+  "version": "0.0.1",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "README.md",
+    "dist/**/*.js",
+    "dist/**/*.ts"
+  ],
+  "repository": "https://github.com/c-tsy/server-decorator",
+  "author": "castleiMac <castle@tansuyun.cn>",
+  "license": "MIT"
+}
